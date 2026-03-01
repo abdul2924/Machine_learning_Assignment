@@ -75,8 +75,8 @@ These metrics help assess prediction accuracy and model performance.
 
 # Author
 
-Student Name: Abdul Munaf Shaik
-Course: MSc Data Science  
-Module: 7006SCN - Machine Learning and Big Data 
-University: Coventry University
+Student Name: Abdul Munaf Shaik.
+Course: MSc Data Science.  
+Module: 7006SCN - Machine Learning and Big Data.
+University: Coventry University.
 
