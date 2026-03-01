@@ -60,7 +60,7 @@ These metrics help assess prediction accuracy and model performance.
 1. Upload dataset to Google Drive
 2. Open Google Colab
 3. Mount Google Drive
-4. Install required libraries (if needed)
+4. Install required libraries
 5. Run all cells sequentially
 
 
@@ -73,7 +73,7 @@ These metrics help assess prediction accuracy and model performance.
 - Building reproducible data science workflows
 
 
-#👤 Author
+# Author
 
 Student Name: Abdul Munaf Shaik
 Course: MSc Data Science  
